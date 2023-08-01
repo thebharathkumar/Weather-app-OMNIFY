@@ -1,5 +1,5 @@
 # Preview
-THIS IS AN ASSIGNMENT BY OMNIFY
+### THIS IS AN ASSIGNMENT BY OMNIFY
 
 # Getting Started with Create React App
 
