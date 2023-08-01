@@ -1,5 +1,7 @@
 # Preview
 ### THIS IS AN ASSIGNMENT BY OMNIFY
+# DEMO: https://weather-app-omnify-lejq.vercel.app/
+![image](https://github.com/thebharathkumar/Weather-app-OMNIFY/assets/83280654/f5a018dd-c3a5-4142-b703-ec5ff9cf4504)
 
 # Getting Started with Create React App
 
